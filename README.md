@@ -1,6 +1,6 @@
 # Hi there!
 
-- 👋 I’m Aris, a 2nd year Precision Medicine PhD student (University of Edinburgh)
+- 👋 I’m Aris, a 3rd year Precision Medicine PhD student (University of Edinburgh)
 - 👀 I’m working on data analysis and machine learning projects in breast and pancreatic cancer high-dimensional data
 
 
