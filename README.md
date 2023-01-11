@@ -4,7 +4,7 @@
 - 👀 I’m working on data analysis and machine learning projects in breast and pancreatic cancer high-dimensional (gene expression) data.
 
 
-- 📝 Here is <a target="_blank">[my CV](https://github.com/sionaris/sionaris/files/10394489/iCV_2023.pdf)</a> for more information.
+- 📝 Here is [my CV](https://github.com/sionaris/sionaris/files/10394489/iCV_2023.pdf) for more information.
 
 - 🌐 Here are my social media and other research profiles:
   - [Personal webpage](https://www.ed.ac.uk/profile/aristeidis-sionakidis)
