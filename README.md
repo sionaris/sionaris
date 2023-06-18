@@ -12,7 +12,7 @@
 - [Link](https://www.researchsquare.com/article/rs-2172022/v2) to the preprint of our pancreatic ductal adenocarcinoma work.
    - Corresponding [repo](https://github.com/lalagkaspn/pdac_omics/tree/main), [poster](https://www.researchgate.net/publication/361613709_EACR22-0870_Identification_of_deregulated_gene_expression_across_all_stages_of_Pancreatic_Ductal_Adenocarcinoma_as_a_platform_to_develop_pharmacogenomics_biomarkers_for_early_diagnosis_and_therapy) in #EACR2022.
 
-- The breast cancer work preprint will be provided soon and by then corresponding repo will have been made public.
+- **Breast cancer:**
    - [Poster](https://www.researchgate.net/publication/360602101_ASionakidis_AACR2022_Poster) in #AACR2022.
    - [Repo](https://github.com/sionaris/bc_ml_pub)
    - [Preprint](https://www.researchsquare.com/article/rs-2771576/v1)
