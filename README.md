@@ -1,6 +1,6 @@
 # Hi there!
 
-- 👋 I’m Aris, a 3rd year Precision Medicine PhD student (University of Edinburgh).
+- 👋 I’m Aris, a final year Precision Medicine PhD student (University of Edinburgh).
 - 👀 I’m using data analysis and machine learning methodologies on high-dimensional (gene expression) cancer data (breast cancer, pancreatic ductal adenocarcinoma, oral squamous cell carcinoma).
 - 📝 Here is <a href="https://github.com/sionaris/sionaris/raw/main/Aristeidis_Sionakidis_CV.pdf" target="_blank">my CV</a>
 - 🌐 Here is my profile in other media:
