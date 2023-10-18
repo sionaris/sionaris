@@ -15,7 +15,7 @@
    - [Preprint](https://www.researchsquare.com/article/rs-2771576/v1)
 
 - **Pancreatic ductal adenocarcinoma**:
-  - [Preprint](https://www.researchsquare.com/article/rs-2172022/v2)
+  - [Paper](https://doi.org/10.1002/ctd2.248)
   - [Repo](https://github.com/lalagkaspn/pdac_omics/tree/main)
   - [poster](https://www.researchgate.net/publication/361613709_EACR22-0870_Identification_of_deregulated_gene_expression_across_all_stages_of_Pancreatic_Ductal_Adenocarcinoma_as_a_platform_to_develop_pharmacogenomics_biomarkers_for_early_diagnosis_and_therapy) in #EACR2022.
 
