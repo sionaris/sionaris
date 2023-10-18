@@ -17,7 +17,7 @@
 - **Pancreatic ductal adenocarcinoma**:
   - [Paper](https://doi.org/10.1002/ctd2.248)
   - [Repo](https://github.com/lalagkaspn/pdac_omics/tree/main)
-  - [poster](https://www.researchgate.net/publication/361613709_EACR22-0870_Identification_of_deregulated_gene_expression_across_all_stages_of_Pancreatic_Ductal_Adenocarcinoma_as_a_platform_to_develop_pharmacogenomics_biomarkers_for_early_diagnosis_and_therapy) in #EACR2022.
+  - [Poster](https://www.researchgate.net/publication/361613709_EACR22-0870_Identification_of_deregulated_gene_expression_across_all_stages_of_Pancreatic_Ductal_Adenocarcinoma_as_a_platform_to_develop_pharmacogenomics_biomarkers_for_early_diagnosis_and_therapy) in #EACR2022.
 
 - If you came here by mistake, here is something that will make it worth your time: [Surprise](https://giphy.com/gifs/koodocanada-koodoraf-29MIbJC4aRAFOafBiP/fullscreen)
 <!---
