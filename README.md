@@ -5,7 +5,7 @@
 - 📝 Here is <a href="https://github.com/sionaris/sionaris/raw/main/Aristeidis_Sionakidis_CV.pdf" target="_blank">my CV</a>
 - 🌐 Here is my profile in other media:
   - [Personal webpage](https://www.ed.ac.uk/profile/aristeidis-sionakidis)
-  - [LinkedIn](https://www.linkedin.com/feed/)
+  - [LinkedIn](https://www.linkedin.com/in/aristeidis-sionakidis-b70412176/)
   - [Twitter](https://twitter.com/sionakidis)
   - [ResearchGate](https://www.researchgate.net/profile/Aristeidis-Sionakidis)
  
