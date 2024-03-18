@@ -1,10 +1,10 @@
 # Hi there!
 
-- 👋 I’m Aris, a final year Precision Medicine PhD student (University of Edinburgh).
-- 👀 I’m using data analysis and machine learning methodologies on high-dimensional (gene expression) cancer data (breast cancer, pancreatic ductal adenocarcinoma, oral squamous cell carcinoma and more).
-- 📝 Here is <a href="https://github.com/sionaris/sionaris/raw/main/Aristeidis_Sionakidis_CV.pdf" target="_blank">my CV</a>
+- 👋 I’m Aris, a postdoctoral Research Associate in Machine Learning at the University of Cambridge.
+- 👀 I’m using statistical and machine learning methodologies in an effort to analyse multimodal cancer data integratively.
+- 📝 Here is <a href="https://github.com/sionaris/sionaris/raw/main/Aristeidis_Sionakidis_cv.pdf" target="_blank">my CV</a>
 - 🌐 Here is my profile in other media:
-  - [Personal webpage](https://www.ed.ac.uk/profile/aristeidis-sionakidis)
+  <!--- - [Personal webpage](https://www.ed.ac.uk/profile/aristeidis-sionakidis) -->
   - [LinkedIn](https://www.linkedin.com/in/aristeidis-sionakidis-b70412176/)
   - [Twitter](https://twitter.com/sionakidis)
   - [ResearchGate](https://www.researchgate.net/profile/Aristeidis-Sionakidis)
@@ -12,6 +12,7 @@
 - **Breast cancer:**
    - [Poster](https://www.researchgate.net/publication/360602101_ASionakidis_AACR2022_Poster) in #AACR2022.
    - [Repo](https://github.com/sionaris/bc_ml_pub)
+   - [Shiny app repo](https://github.com/sionaris/Shiny_bc_paper)
    - [Preprint](https://www.researchsquare.com/article/rs-2771576/v1)
 
 - **Pancreatic ductal adenocarcinoma**:
