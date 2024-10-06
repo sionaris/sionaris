@@ -6,7 +6,7 @@
 - 🌐 Here is my profile in other media:
   <!--- - [Personal webpage](https://www.ed.ac.uk/profile/aristeidis-sionakidis) -->
   - [LinkedIn](https://www.linkedin.com/in/aristeidis-sionakidis-b70412176/)
-  - [Twitter](https://twitter.com/sionakidis)
+  - [Twitter/X](https://twitter.com/sionakidis)
   - [ResearchGate](https://www.researchgate.net/profile/Aristeidis-Sionakidis)
  
 - **Breast cancer:**
