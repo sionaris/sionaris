@@ -1,7 +1,7 @@
 # Hi there!
 
 - 👋 I’m Aris, a postdoctoral Research Associate in Machine Learning at the University of Cambridge.
-- 👀 I’m using statistical and machine learning methodologies in an effort to analyse multimodal cancer data integratively.
+- 👀 I’m using statistical and machine learning methodologies to analyse multimodal cancer data integratively.
 - 📝 Here is <a href="https://github.com/sionaris/sionaris/raw/main/CV_sionakidis.pdf" target="_blank">my CV</a>
 - 🌐 Here is my profile in other media:
   <!--- - [Personal webpage](https://www.ed.ac.uk/profile/aristeidis-sionakidis) -->
